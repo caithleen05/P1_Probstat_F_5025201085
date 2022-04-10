@@ -46,14 +46,6 @@ Renita Caithleen Davita/5025201085
     variance
     ```
 
-ss=
-![image]
-
-![image]
-
-    
-
-
 </br>
 
 ## Soal 2
@@ -83,11 +75,6 @@ ss=
     ratarata
     varians 
     ```
-    
- ss=
- ![image]
-
- 
 
  </br>
 
@@ -123,10 +110,6 @@ ss=
     ratarata
     varians
     ```
-   
-ss=
-![image]
-
 
 
  </br>
@@ -158,11 +141,6 @@ ss=
     ratarata
     varians
     ```
-    
-    
-ss=
-![image]
-
 
  </br>
  
@@ -203,11 +181,6 @@ ss=
     ratarata
     varians
     ```
-    
-    
-ss=
-![image]
-![image]
 
 
  </br>
@@ -257,15 +230,8 @@ ss=
     varians
     ```
   
-
-
-ss=
-![image]
-![image]
-![image]
-
 </br>
 
 ## Penutup
-Terima kasih atas perhatiannya. Kendala saat mengerjakan praktikum ini adalah karena waktu kurang bertabrakan dengan sisop.
+Terima kasih atas waktu dan perhatiannya yang telah diluangkan untuk memeriksa. Adapun kendala yang dialami saat mengerjakan praktikum ini karena waktu yang mepet dan bertabrakan dengan sistem operasi.
     
